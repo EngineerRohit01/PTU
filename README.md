@@ -5,6 +5,10 @@
 
 # 📚 IKG Punjab Technical University Resources
 
+<div aligm="center">
+  <img src="https://mohali.ptu.ac.in/images/ptu-logo-transparent.png" alt="LOGO" width="100" height="100">
+</div>
+
 ## 🔗 Official Links
 - [PTU Official Website](https://ptu.ac.in/)
 - [PTU Examination Portal](https://www.ptuexam.com)
